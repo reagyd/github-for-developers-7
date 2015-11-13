@@ -1,1 +1,2 @@
 myfile
+ - [color] blue
